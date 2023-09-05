@@ -21,3 +21,7 @@ This repository includes work I'm doing in the quest to implement [Artemis Capit
 |Time Period (YYYY-MM-DD)|2018-01-25 to 2023-09-01|2018-01-25 to 2023-09-01|2011-01-04 to 2023-09-01|2011-01-04 to 2023-09-01|2017-04-06 to 2023-09-01|2017-04-06 to 2023-09-01|
 |Max Drawdown (%)        |-15.521553225771292     |-34.104746812138636     |-40.86891578110916      |-34.104746812138636     |-15.321137072656295     |-34.104746812138636     |
 |CAGR (%)                |5.578063771146136       |8.66724352309529        |-0.967539446469412      |10.535870836416784      |2.847609394107775       |10.690655429072882      |
+
+### Data
+
+All data has been downloaded from [Yahoo Finance](https://finance.yahoo.com/).
