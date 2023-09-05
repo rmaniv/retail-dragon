@@ -106,8 +106,8 @@ def simulate_portfolio(data_file, etf_name):
     # Compile results into a DataFrame for display
     results_df = pd.DataFrame({
         'Metric': ['Max Drawdown (%)', 'CAGR (%)', 'Time Period (YYYY-MM-DD)'],
-        f'Portfolio with {etf_name}': [max_drawdown_portfolio, cagr_portfolio, time_period],
-        f'SPY_{etf_name}': [max_drawdown_spy, cagr_spy, time_period]
+        f'Portfolio with {etf_name}': [round(max_drawdown_portfolio,2), round(cagr_portfolio,2), time_period],
+        f'SPY_{etf_name}': [round(max_drawdown_spy,2), round(cagr_spy,2), time_period]
     }).set_index('Metric')
 
     return portfolio_df, results_df
