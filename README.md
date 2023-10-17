@@ -1,6 +1,6 @@
 # retail-dragon
 
-This repository includes work I'm doing in the quest to implement [Artemis Capital](https://www.artemiscm.com/)'s [Dragon Portfolio](https://docsend.com/view/kyfbekuvz6udng75) as a retail investor in India with a cash account with [tastytrade](https://tastytrade.com/) in the US.
+This repository has some code that I've written to test performance of some exchange-traded products to implement [Artemis Capital](https://www.artemiscm.com/)'s [Dragon Portfolio](https://docsend.com/view/kyfbekuvz6udng75) as a retail investor in India with a cash account with [tastytrade](https://tastytrade.com/) in the US.
 
 ## Retail semi-Dragon
 
