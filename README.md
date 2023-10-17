@@ -16,11 +16,11 @@ This repository has some code that I've written to test performance of some exch
 
 ### Results
 
-|Metric                  |Portfolio with VXZ      |SPY                     |Portfolio with VIXM     |SPY                     |Portfolio with TAIL     |SPY                     |
+|Metric                  |Portfolio with VXZ      |60-40 SPY-AGG           |Portfolio with VIXM     |60-40 SPY-AGG           |Portfolio with TAIL     |60-40 SPY-AGG           |
 |------------------------|------------------------|------------------------|------------------------|------------------------|------------------------|------------------------|
 |Time Period (YYYY-MM-DD)|2018-01-25 to 2023-09-01|2018-01-25 to 2023-09-01|2011-01-04 to 2023-09-01|2011-01-04 to 2023-09-01|2017-04-06 to 2023-09-01|2017-04-06 to 2023-09-01|
-|Max Drawdown (%)        |-15.52                  |-34.1                   |-40.87                  |-34.1                   |-15.32                  |-34.1                   |
-|CAGR (%)                |5.58                    |8.67                    |-0.97                   |10.54                   |2.85                    |10.69                   |
+|Max Drawdown (%)        |-15.52                  |-21.76                  |-40.87                  |-21.76                  |-15.32                  |-21.76                  |
+|CAGR (%)                |5.58                    |4.64                    |-0.97                   |6.21                    |2.85                    |5.88                    |
 
 ### Data
 
